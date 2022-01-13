@@ -1,1 +1,1 @@
-# Chandan
+# Snake water and gun game
